@@ -7,5 +7,110 @@
 }
 
 .sleep-music-container {
-    padding: 25px;
+    padding: 30px;
+    height: 40vh;
+}
+
+.sleep-music-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 28px;
+}
+
+.sleep-music-description {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
+
+.night-island-card-bg-container {
+    padding: 30px;
+}
+
+.night-island-card-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png');
+    background-size: cover;
+    height: 30vh;
+}
+
+.night-island-card-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 26px;
+}
+
+.night-island-card-description {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.night-island-button {
+    border: none;
+    background-color: #8e97fd;
+    color: #ffffff;
+    width: 120px;
+    height: 35px;
+    font-family: "Bree Serif";
+    border-radius: 40px;
+}
+
+.music-details-bg-container {
+    background-color: #03174c;
+}
+
+.music-details-top-banner {
+    width: 100vw;
+}
+
+.night-island-detailed-description-container {
+    padding: 18px;
+}
+
+.night-island-detaied-description {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.music-duration {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
+
+.related-heading {
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "Bree Serif";
+}
+
+.related-music-card-container {
+    margin-right: 10px;
+}
+
+.related-image {
+    width: 40vw;
+}
+
+.related-music-name {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 16px;
+}
+
+.related-music-text {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.back-button {
+    border: none;
+    background-color: #8e97fd;
+    color: #ffffff;
+    width: 120px;
+    height: 35px;
+    font-family: "Bree Serif";
+    border-radius: 40px;
 }
